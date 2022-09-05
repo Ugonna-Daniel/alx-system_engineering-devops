@@ -16,4 +16,5 @@ Task 7. A shell script that creates a file named exactly \*\\'"Best School"\'\\*
 
 Task 8. A script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create i
 
-Task 9. 
+Task 9. A script that duplicates the last line of the file iacta
+
