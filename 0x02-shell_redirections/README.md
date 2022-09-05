@@ -1,4 +1,4 @@
-Task 0. A script that prints “Hello, World”, followed by a new line to the standard output
+Task 0. A script that prints “Hello, World”, followed by a new line to the standard11;rgb:3030/0a0a/2424output
 
 Task 1. A script that displays a confused smiley "(Ôo)'
 
@@ -32,4 +32,10 @@ Requirements:
 One file per line
 Sorted from the newest to the oldest
 
-Task 13. 
+Task 13. A script that takes a list of words as input and prints only words that appear exactly once.
+
+Input format: One line, one word
+Output format: One line, one word
+Words should be sorted
+
+Task 14. 
