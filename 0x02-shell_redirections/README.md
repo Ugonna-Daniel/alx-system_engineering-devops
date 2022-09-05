@@ -10,4 +10,6 @@ Task 4. Display the last 10 lines of /etc/passwd
 
 Task 5. Display the first 10 lines of /etc/passwd
 
-Task 6. 
+Task 6. A script that displays the third line of the file iacta
+
+Task 7. 
