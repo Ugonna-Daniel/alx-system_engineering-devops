@@ -1,4 +1,4 @@
-Task 0. A script that prints “Hello, World”, followed by a new line to the standard111;rgb:3030/0a0a/24241;rgb:3030/0a0a/2424output
+Task 0. A script that prints “Hello, World”, followed by a new line to the standard111;rgb:3030/0a0a/242411;rgb:3030/0a0a/24241;rgb:3030/0a0a/2424output
 
 Task 1. A script that displays a confused smiley "(Ôo)'
 
@@ -54,4 +54,4 @@ Task 20. script that removes all letters c and C from input
 
 Task 21. script that reverse its input
 
-Task 22. 
+Task 22. script that displays all users and their home directories, sorted by users
