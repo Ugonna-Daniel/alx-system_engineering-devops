@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bas
-=======
 #!/bin/bash
->>>>>>> 8ff8d4458ec18ef7970ed2eae8993a50bdcbcb59
 egrep 'root' /etc/passwd
