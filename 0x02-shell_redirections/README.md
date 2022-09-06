@@ -1,4 +1,4 @@
-Task 0. A script that prints “Hello, World”, followed by a new line to the standard11;rgb:3030/0a0a/2424output
+Task 0. A script that prints “Hello, World”, followed by a new line to the standard111;rgb:3030/0a0a/24241;rgb:3030/0a0a/2424output
 
 Task 1. A script that displays a confused smiley "(Ôo)'
 
@@ -50,4 +50,6 @@ Task 18. Display all lines of the file /etc/ssh/sshd_config starting with a lett
 
 Task 19. Replace all characters A and c from input to Z and e respectively
 
-Task 20. 
+Task 20. script that removes all letters c and C from input
+
+Task 21. 
