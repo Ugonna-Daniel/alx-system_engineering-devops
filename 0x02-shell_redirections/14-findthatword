@@ -1,0 +1,2 @@
+#!/bin/bas
+egrep 'root' /etc/passwd
